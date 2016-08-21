@@ -69,9 +69,6 @@ namespace mqtt_Test
 			// aapt resource value: 0x7f050003
 			public const int MyButton = 2131034115;
 			
-			// aapt resource value: 0x7f050001
-			public const int imageButton1 = 2131034113;
-			
 			// aapt resource value: 0x7f050002
 			public const int imageView1 = 2131034114;
 			
@@ -83,6 +80,9 @@ namespace mqtt_Test
 			
 			// aapt resource value: 0x7f050006
 			public const int seekBar1 = 2131034118;
+			
+			// aapt resource value: 0x7f050001
+			public const int settingsButton1 = 2131034113;
 			
 			// aapt resource value: 0x7f050008
 			public const int textMQTT = 2131034120;
